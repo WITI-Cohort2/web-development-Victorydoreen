@@ -1,0 +1,41 @@
+
+.paragraph1 {
+    background-color:darkmagenta;
+    margin: 10px;
+    padding:10px;
+    border:20px;
+    
+}
+.paragraph2 {
+    background-color: blue;
+    margin: 20px;
+    padding: 25px;
+    border:100px;
+    <!--REG NO. 2022/DCSE/029/SS-->
+}
+.paragraph3 {
+    background-color: green;
+    margin: 30px;
+    padding: 40px;
+    border: 30px;
+    
+}
+.paragraph4 {
+    background-color: gold; 
+    margin:35px ;
+    padding: 60px;
+    border: 35px;
+    
+}
+.paragraph5 {
+    background-color:red;
+    margin:40px ;
+    padding:80px;
+    border: 40px;
+    
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: blueviolet;
+}
