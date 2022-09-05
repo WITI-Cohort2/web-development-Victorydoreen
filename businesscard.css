@@ -1,0 +1,34 @@
+
+*{background-color: black;}
+.top {
+    display:grid;
+    grid-template-columns: auto auto;
+    
+}
+.logo {
+    border-radius: 10px;
+    position: relative;
+    margin-right:;
+    margin-left: 10px;
+}
+.name {
+    text-decoration: solid;
+    text-align: right;
+    text-size-adjust:600px;
+    left: 3%;
+    position: relative;
+    margin-top: 20%;
+    margin-right:50%;
+    margin-left: 10px;
+    color:white;
+}
+.middle {
+    display: grid;
+    grid-template-columns: auto auto;
+    color: white;
+    left: 3%;
+    position: relative;
+    margin-top: 20%;
+    margin-right:50%;
+    margin-left: 10px;
+}
